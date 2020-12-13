@@ -1,6 +1,6 @@
 # Лабораторная работа № 1
 
-
+[![Build Status](https://travis-ci.org/legik777/lab1.svg?branch=main)](https://travis-ci.org/legik777/lab1)
 
 ## Задание
 
