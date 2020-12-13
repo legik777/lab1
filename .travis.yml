@@ -1,5 +1,8 @@
 os: linux
+<<<<<<< HEAD
 sudo: required
+=======
+>>>>>>> 6f6fc3c853952987f1d6ba4e024736430bf3c2d2
 language:
 - minimal
 services:

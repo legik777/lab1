@@ -1,8 +1,6 @@
 # Лабораторная работа № 1
 
-| branch | status |
-|--------|--------|
-|  ver2  |[![Build Status](https://travis-ci.com/mrmamongo/Lab01-parser-yuna.svg?branch=ver2)](https://travis-ci.com/github/mrmamongo/lab01-parser-yuna)|
+[![Build Status](https://travis-ci.org/legik777/lab1.svg?branch=main)](https://travis-ci.org/legik777/lab1)
 
 ## Задание
 
